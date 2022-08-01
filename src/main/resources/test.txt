@@ -1,0 +1,5 @@
+hello word
+hello scala
+thank you
+how are you
+thanks
